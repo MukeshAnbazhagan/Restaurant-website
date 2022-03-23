@@ -1,0 +1,18 @@
+#para1
+{
+    font-size: 30px;
+    font-family: Gabriola;
+    margin: 20px;
+    border:ivory;
+    padding: 20px;
+    text-align: justify;
+
+}
+h2
+{
+    font-family: Ink Free;
+    color: maroon;
+    text-shadow: black;
+    font-size: 50px;
+    border-bottom:3px solid black;
+}

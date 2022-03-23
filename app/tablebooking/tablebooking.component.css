@@ -1,0 +1,53 @@
+h2
+{
+    font-size:50px;
+    text-align:left;
+    font-family:Ink Free;
+    text-shadow: 3px 2px white;
+    color: darkred;
+    border-bottom:3px solid black;
+
+}
+
+#para1
+{
+font-size:25px;
+}
+
+#para2
+{
+font-size:25px;
+color:black;
+padding-right:5px;
+padding-left:2px;
+margin-right:10px;
+font-family:Tempus Sans ITC;
+
+}
+p.para1-bg
+{
+opacity:0.6;
+}
+
+#para3
+{
+border-top:1.5px solid black;
+border-bottom:1.5px solid black;
+font-size:20px;
+text-align:center;
+}
+
+#para4
+{
+border-top:1.5px solid black;
+border-bottom:1.5px solid black;
+font-size:20px;
+text-align:center;
+}
+
+#para5
+{
+    background-image: url("../../assets/home1.jpg");
+    border-top-left-radius: 3cm;
+    border-bottom-left-radius: 3cm;
+}
